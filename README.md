@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **JS, TS**
 
+- 🏡 Living in **Antalya, Turkey (GMT+03:00)**
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/presnov/](https://www.linkedin.com/in/presnov/)
 
 <h3 align="left">Connect with me:</h3>
