@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **JS, TS**
 
-- 📫 How to reach me **presnov3w@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/presnov/](https://www.linkedin.com/in/presnov/)
 
 <h3 align="left">Connect with me:</h3>
