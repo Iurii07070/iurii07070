@@ -18,9 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/presnov" target="blank"><img align="center" src="https://github.com/Iurii07070/Iurii07070/blob/main/linked-in-alt.svg" alt="presnov" height="30" width="40" /></a>
+  <a href="https://t.me/Iurii07070" target="blank"><img align="center" src="https://github.com/Iurii07070/Iurii07070/blob/main/986956_telegram_icon.png" alt="presnov" height="30" width="40" /></a>
 </p>
 <h3 align="left">Portfolio:</h3>
-- 🧠🗺️ A mind map for SQL created in [MIRO](https://www.linkedin.com/in/presnov/](https://miro.com/app/board/uXjVP_7BD8Y=/)
+- 🧠🗺️ A mind map for SQL created in [MIRO](https://miro.com/app/board/uXjVP_7BD8Y=/)
 </p>
 
 
