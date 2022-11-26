@@ -22,7 +22,6 @@
 </p>
 <h3 align="left">Portfolio:</h3>
 - 🧠🗺️ A mind map for SQL created in [MIRO](https://miro.com/app/board/uXjVP_7BD8Y=/)
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
