@@ -21,7 +21,8 @@
 </p>
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://miro.com/app/board/uXjVP_7BD8Y=/" target="blank">A mind map for SQL created in MIRO<img align="center" src="https://github.com/Iurii07070/Iurii07070/blob/main/mind_map.png" alt="miro mind map" height="30" width="40" /></a>
+<a href="https://miro.com/app/board/uXjVP_7BD8Y=/" target="blank"><img align="center" src="https://github.com/Iurii07070/Iurii07070/blob/main/mind_map.png" alt="miro mind map" height="30" width="40" /></a>
+<span>A mind map for SQL created in MIRO</span> 
 </p>
 
 
