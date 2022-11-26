@@ -20,9 +20,7 @@
 <a href="https://linkedin.com/in/presnov" target="blank"><img align="center" src="https://github.com/Iurii07070/Iurii07070/blob/main/linked-in-alt.svg" alt="presnov" height="30" width="40" /></a>
 </p>
 <h3 align="left">Portfolio:</h3>
-<p align="left">
-<a href="https://miro.com/app/board/uXjVP_7BD8Y=/" target="blank"><img align="center" src="https://github.com/Iurii07070/Iurii07070/blob/main/mind_map.png" alt="miro mind map" height="30" width="40" /></a>
-<span>A mind map for SQL created in MIRO</span> 
+- 🧠🗺️ A mind map for SQL created in [MIRO](https://www.linkedin.com/in/presnov/](https://miro.com/app/board/uXjVP_7BD8Y=/)
 </p>
 
 
