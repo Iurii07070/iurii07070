@@ -28,8 +28,8 @@
 - 🧠🗺️  A mind map for SQL created in [MIRO](https://miro.com/app/board/uXjVP_7BD8Y=/)
 - ✅❌	Check list [RU](https://docs.google.com/spreadsheets/d/1za4sIPUU33VC6ZHJq_3xC3GBZSt7LOlXag1YbnMsBpA/edit?usp=sharing)
 - 🐞🔍	Bug list [RU](https://docs.google.com/spreadsheets/d/1OsbrybvPmf29uwqYLLffzObJNHUSOYHiTK7p9DG2O-M/edit?usp=sharing)
-
-
+- [Postman collection](https://github.com/Iurii07070/Iurii07070/blob/main/Postman%20integration/postman-collection-sample.json) 
+- [Autotests](https://github.com/Iurii07070/fh-webapp-test-iurii) 
 &nbsp;
 ---
 <h3 align="left">Languages and Tools:</h3>
