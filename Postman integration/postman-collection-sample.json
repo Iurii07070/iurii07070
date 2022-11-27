@@ -1,0 +1,196 @@
+{
+	"info": {
+		"_postman_id": "496dfe99-ff82-4c34-a3ff-3345a3355089",
+		"name": "Postman_collection_iurii",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Search job with filters",
+			"id": "1ffba3f5-1754-4888-bff4-2d6b5e3f0561",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{API}}/v2/client-api/search?object=job&filters=related_object_id:a5603c89-63cc-44f7-91f4-656c84da04bb-A9",
+					"host": [
+						"{{API}}"
+					],
+					"path": [
+						"v2",
+						"client-api",
+						"search"
+					],
+					"query": [
+						{
+							"key": "object",
+							"value": "job"
+						},
+						{
+							"key": "filters",
+							"value": "related_object_id:a5603c89-63cc-44f7-91f4-656c84da04bb-A9"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Patch",
+			"id": "ba5a00bf-291f-455a-a921-50190a2f2df6",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"time_zone\": \"ast\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{API}}/v2/client-api/graph/357d85f0-a1db-49a0-b05e-9e3826b0ff58-16"
+			},
+			"response": []
+		},
+		{
+			"name": "GET value set",
+			"id": "81aa47fb-0e5f-4560-9beb-2376e680622a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "{{API}}/v2/client-api/vs/logical-objects-test"
+			},
+			"response": []
+		},
+		{
+			"name": "Search with filters in body",
+			"id": "62a4f1ab-4dfb-4fee-b601-b705fd3bb3c3",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": " {\"filters\":\"code_sort:P00145\" }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{API}}/v2/client-api/search?object=test_panel",
+					"host": [
+						"{{API}}"
+					],
+					"path": [
+						"v2",
+						"client-api",
+						"search"
+					],
+					"query": [
+						{
+							"key": "object",
+							"value": "test_panel"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search panel with q",
+			"id": "f252e177-b41e-4061-9e8e-f50723a1a4b9",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{API}}/v2/client-api/search?object=test_panel&q=P00145",
+					"host": [
+						"{{API}}"
+					],
+					"path": [
+						"v2",
+						"client-api",
+						"search"
+					],
+					"query": [
+						{
+							"key": "object",
+							"value": "test_panel"
+						},
+						{
+							"key": "q",
+							"value": "P00145"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "RUN script - redshift",
+			"id": "eb127bea-b32d-4191-9e93-2e488df4a4c0",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"object_type\": \"script_job\",\r\n    \"code\": \"FS32186\",\r\n    \"publish_to_slack\": true,\r\n    \"arguments\": [\r\n        \"fh-dev-redshift-upolad\",\r\n        \"stage\",\r\n        \"arn:aws:iam::090739627833:role/RedshiftClusterRole\",\r\n        \",\",\r\n        \"1\"\r\n    ]\r\n} ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://script.dev-a.flowhealthlabs.com/script/run"
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": {}
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "37b6ed0d-35c8-454e-b959-f1a7877cc164",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "e21eefb7-a51a-4edd-bf4d-ff03928e5de4",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
