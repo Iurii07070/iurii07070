@@ -31,6 +31,7 @@
 - [Postman collection](https://github.com/Iurii07070/Iurii07070/blob/main/Postman%20integration/postman-collection-sample.json) 
 - [Autotests](https://github.com/Iurii07070/fh-webapp-test-iurii) 
 - Web elements basic checks. [Cheat list EN](https://github.com/Iurii07070/Iurii07070/blob/main/Cheat%20list%20web%20elements.pdf)
+- Test cases sample [EN](https://drive.google.com/file/d/1_GQs7SHqVT5KrMiTDZv7yLPvVg5a0o7o/view?usp=sharing)
 &nbsp;
 ---
 <h3 align="left">Languages and Tools:</h3>
