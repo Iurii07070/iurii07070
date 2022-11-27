@@ -30,6 +30,7 @@
 - 🐞🔍	Bug list [RU](https://docs.google.com/spreadsheets/d/1OsbrybvPmf29uwqYLLffzObJNHUSOYHiTK7p9DG2O-M/edit?usp=sharing)
 - [Postman collection](https://github.com/Iurii07070/Iurii07070/blob/main/Postman%20integration/postman-collection-sample.json) 
 - [Autotests](https://github.com/Iurii07070/fh-webapp-test-iurii) 
+- Web elements basic checks. [Cheat list EN](https://github.com/Iurii07070/Iurii07070/blob/main/Cheat%20list%20web%20elements.pdf)
 &nbsp;
 ---
 <h3 align="left">Languages and Tools:</h3>
