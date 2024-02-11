@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Iurii07070/Iurii07070/blob/main/banner-gif.gif)
 <h1 align="center">Hi 👋, I'm IURII</h1>
-<h3 align="center">QA & Release Engineer. Heading towards full stack QA.</h3>
+<h3 align="center">QA Engineer & Release manager</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Iurii07070/Iurii07070/blob/main/coding1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" /> </p>
