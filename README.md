@@ -7,11 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 Currently mastering **Java**
 
-- 🏡 Living in **Antalya, Turkey (GMT+03:00)**
+- 🏡 Based in **Antalya, Turkey (GMT+03:00)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/presnov/](https://www.linkedin.com/in/presnov/)
+- 📄 Explore my professional journey on [LinkedIn](https://www.linkedin.com/in/presnov/)
 
 ---
 
