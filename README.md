@@ -26,8 +26,8 @@
 - 🧠🗺️  A mind map for SQL created in [MIRO](https://miro.com/app/board/uXjVP_7BD8Y=/)
 - ✅❌	Check list [RU](https://docs.google.com/spreadsheets/d/1za4sIPUU33VC6ZHJq_3xC3GBZSt7LOlXag1YbnMsBpA/edit?usp=sharing)
 - 🐞🔍	Bug list [RU](https://docs.google.com/spreadsheets/d/1OsbrybvPmf29uwqYLLffzObJNHUSOYHiTK7p9DG2O-M/edit?usp=sharing)
-- [Postman collection](https://github.com/Iurii07070/Iurii07070/blob/main/Postman%20integration/postman-collection-sample.json) 
-- [Autotests](https://github.com/Iurii07070/fh-webapp-test-iurii) 
+- [API testing with Postman](https://github.com/Iurii07070/Iurii07070/blob/main/Postman%20integration/x.com.postman_collection.json) 
+- [Java Autotests](https://github.com/Iurii07070/sprint_4.git) 
 - Web elements basic checks. [Cheat list EN](https://github.com/Iurii07070/Iurii07070/blob/main/Cheat%20list%20web%20elements.pdf)
 - Test cases sample [EN](https://drive.google.com/file/d/1_GQs7SHqVT5KrMiTDZv7yLPvVg5a0o7o/view?usp=sharing)
 &nbsp;
