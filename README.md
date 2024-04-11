@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/Iurii07070/Iurii07070/blob/main/banner-gif.gif)
+![MasterHead](./banner-gif.gif)
 <h1 align="center">Hi 👋, I'm IURII</h1>
 <h3 align="center">QA Engineer & Release manager</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Iurii07070/Iurii07070/blob/main/coding1.gif">
+<img align="right" alt="Coding" width="400" src="./coding1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" /> </p>
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/presnov" target="blank"><img align="center" src="https://github.com/Iurii07070/Iurii07070/blob/main/linked-in-alt.svg" alt="presnov" height="30" width="40" /></a>
-  <a href="https://t.me/Iurii07070" target="blank"><img align="center" src="https://github.com/Iurii07070/Iurii07070/blob/main/986956_telegram_icon.png" alt="presnov" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/presnov" target="blank"><img align="center" src="./linked-in-alt.svg" alt="presnov" height="30" width="40" /></a>
+  <a href="https://t.me/Iurii07070" target="blank"><img align="center" src="./986956_telegram_icon.png" alt="presnov" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Portfolio:</h3>
@@ -26,9 +26,9 @@
 - 🧠🗺️  A mind map for SQL created in [MIRO](https://miro.com/app/board/uXjVP_7BD8Y=/)
 - ✅❌	Check list [RU](https://docs.google.com/spreadsheets/d/1za4sIPUU33VC6ZHJq_3xC3GBZSt7LOlXag1YbnMsBpA/edit?usp=sharing)
 - 🐞🔍	Bug list [RU](https://docs.google.com/spreadsheets/d/1OsbrybvPmf29uwqYLLffzObJNHUSOYHiTK7p9DG2O-M/edit?usp=sharing)
-- [API testing with Postman](https://github.com/Iurii07070/Iurii07070/blob/main/Postman%20integration/x.com.postman_collection.json) 
-- [Java Autotests](https://github.com/Iurii07070/sprint_4.git) 
-- Web elements basic checks. [Cheat list EN](https://github.com/Iurii07070/Iurii07070/blob/main/Cheat%20list%20web%20elements.pdf)
+- [API testing with Postman](./Postman%20integration/x-com.postman_collection.json) 
+- [Java Autotests](https://github.com/Iurii07070/sprint_4) 
+- Web elements basic checks. [Cheat list EN](./Cheat%20list%20web%20elements.pdf)
 - Test cases sample [EN](https://drive.google.com/file/d/1_GQs7SHqVT5KrMiTDZv7yLPvVg5a0o7o/view?usp=sharing)
 &nbsp;
 ---
