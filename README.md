@@ -17,11 +17,11 @@
 
 ---
 ### Connect with me:
-<p>
+<div><p>
 <a href="https://linkedin.com/in/presnov" target="blank"><img src="linkedIn-alt.svg" alt="presnov" height="30" width="40" /></a>
 <a href="https://t.me/Iurii07070" target="blank"><img src="telegram_icon.png" alt="presnov" height="30" width="30" /></a>
 </p>
-
+</div>
 ---
 ### Portfolio:
 
