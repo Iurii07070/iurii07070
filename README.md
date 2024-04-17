@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm IURII</h1>
 
 <img align="right" alt="Coding" width="400" src="./main-image.gif">
-
-
+&nbsp;
 
 ### QA Engineer & Release manager
 
@@ -11,7 +10,6 @@
 - 🏡 Based in **Antalya, Turkey (GMT+03:00)**<br>
 - 📄 Explore my professional journey <a href="https://www.linkedin.com/in/presnov/">here</a>.
 - 🤙 Connect with me in <a href="https://t.me/Iurii07070" target="blank">telegram</a>
-
 
 ---
 ### Portfolio:
@@ -29,9 +27,8 @@
 ### Languages and Tools:
 
 <div>
-  <p align="left" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurii07070&show_icons=true&locale=en&layout=compact" alt="iurii07070" /></p>
-
-<p align="left">
+<p align="left" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurii07070&show_icons=true&locale=en&layout=compact" alt="iurii07070" /></p>
+<p align="left" >
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -58,10 +55,5 @@
 
 <div><img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" />
 </div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=iurii07070&show_icons=true&locale=en" alt="iurii07070"  style="max-width:50%;"/>
-</div>
-<div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070"  style="max-width:50%;" />
-</div>
-
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=iurii07070&show_icons=true&locale=en" alt="iurii07070"  style="max-width:50%;"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070"  style="max-width:50%;" />
