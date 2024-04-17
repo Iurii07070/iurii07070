@@ -4,7 +4,7 @@
 ### QA Engineer & Release Manager
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1; height: 100%;">
     - 🌱 Currently mastering my skills in **Java**<br>
     - 🏡 Based in **Antalya, Turkey (GMT+03:00)**<br>
     - 📄 Explore my professional journey [here](https://www.linkedin.com/in/presnov/).
@@ -14,7 +14,6 @@
   </div>
 </div>
 
-
 ---
 ### Connect with me:
 <div><p>
@@ -22,6 +21,7 @@
 <a href="https://t.me/Iurii07070" target="blank"><img src="telegram_icon.png" alt="presnov" height="30" width="30" /></a>
 </p>
 </div>
+
 ---
 ### Portfolio:
 
