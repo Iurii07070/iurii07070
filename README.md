@@ -55,5 +55,7 @@
 
 <div><img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" />
 </div>
+<div>
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=iurii07070&show_icons=true&locale=en" alt="iurii07070"  style="max-width:50%;"/>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070"  style="max-width:50%;" />
+</div>
