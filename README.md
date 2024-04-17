@@ -3,27 +3,25 @@
 
 ### QA Engineer & Release Manager
 
-<img align="right" alt="Coding" width="400" src="main-image.gif">
-
 <div style="display: flex; align-items: center;">
+  <div>
+    <img align="right" alt="Coding" width="400" src="main-image.gif">
+  </div>
   <div style="flex: 1;">
     - 🌱 Currently mastering my skills in **Java**<br>
     - 🏡 Based in **Antalya, Turkey (GMT+03:00)**<br>
     - 📄 Explore my professional journey [here](https://www.linkedin.com/in/presnov/).
   </div>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" />
-  </div>
 </div>
 
 ---
-
 ### Connect with me:
 <p>
 <a href="https://linkedin.com/in/presnov" target="blank"><img src="linkedIn-alt.svg" alt="presnov" height="30" width="40" /></a>
 <a href="https://t.me/Iurii07070" target="blank"><img src="telegram_icon.png" alt="presnov" height="30" width="30" /></a>
 </p>
 
+---
 ### Portfolio:
 
 - 🧠🗺️  A mind map for SQL created in [MIRO](https://miro.com/app/board/uXjVP_7BD8Y=/)
@@ -65,6 +63,12 @@
 
 ---
 ### GitHub stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=iurii07070&show_icons=true&locale=en" alt="iurii07070" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=iurii07070&show_icons=true&locale=en" alt="iurii07070" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070" />
+  </div>
+</div>
