@@ -103,6 +103,7 @@
 </p>
 
 ---
+### GitHub stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=iurii07070&show_icons=true&locale=en" alt="iurii07070" />
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070" />
