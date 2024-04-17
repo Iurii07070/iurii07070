@@ -5,13 +5,16 @@
 
 <img align="right" alt="Coding" width="400" src="main-image.gif">
 
-<p><img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" /></p>
-
-- 🌱 Currently mastering my skills in **Java**
-
-- 🏡 Based in **Antalya, Turkey (GMT+03:00)**
-
-- 📄 Explore my professional journey [here](https://www.linkedin.com/in/presnov/).
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    - 🌱 Currently mastering my skills in **Java**<br>
+    - 🏡 Based in **Antalya, Turkey (GMT+03:00)**<br>
+    - 📄 Explore my professional journey [here](https://www.linkedin.com/in/presnov/).
+  </div>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" />
+  </div>
+</div>
 
 ---
 
@@ -59,7 +62,7 @@
 </p>
 </div>
 &nbsp;
-<!-- Add white space above -->
+
 ---
 ### GitHub stats:
 
