@@ -1,10 +1,10 @@
 ![MasterHead](./main-banner.gif)
-  <h1 style="text-align:center">Hi 👋, I'm IURII</h1>
+  <h1 style="align:center">Hi 👋, I'm IURII</h1>
 
 <div style="display: inline-block;">
 
   <div>
-    <img src="main-image.gif" alt="Coding" style="display: inline-block; float: right; max-width: 40%;">
+    <img src="main-image.gif" alt="Coding" style="float: right; width: 40%;">
   </div>
   <div style="max-width:50%;">
 
