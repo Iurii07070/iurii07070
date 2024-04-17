@@ -1,5 +1,9 @@
-![MasterHead](./main-image.gif)
-  <h1 style="align:center">Hi 👋, I'm IURII</h1>
+![MasterHead](./main-banner.gif)
+<h1 align="center">Hi 👋, I'm IURII</h1>
+
+<img align="right" alt="Coding" width="400" src="./main-image.gif">
+
+
 
 ### QA Engineer & Release manager
 
@@ -7,6 +11,7 @@
 - 🏡 Based in **Antalya, Turkey (GMT+03:00)**<br>
 - 📄 Explore my professional journey <a href="https://www.linkedin.com/in/presnov/">here</a>.
 - 🤙 Connect with me in <a href="https://t.me/Iurii07070" target="blank">telegram</a>
+
 
 ---
 ### Portfolio:
