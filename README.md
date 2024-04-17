@@ -1,8 +1,7 @@
 ![MasterHead](https://github.com/Iurii07070/Iurii07070/blob/main/banner-gif.gif)
 <h1>Hi 👋, I'm IURII</h1>
 <h3>QA Engineer & Release manager</h3>
-<img alt="Coding" width="400" src="https://github.com/Iurii07070/Iurii07070/blob/main/coding1.gif">
-
+<img align="right" alt="Coding" width="400" src="main-image.gif">
 <p> <img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" /> </p>
 
 - 🌱 Currently mastering my skills in **Java**
@@ -15,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/presnov" target="blank"><img src="https://github.com/Iurii07070/Iurii07070/blob/main/linked-in-alt.svg" alt="presnov" height="30" width="40" /></a>
-<a href="https://t.me/Iurii07070" target="blank"><img src="https://github.com/Iurii07070/Iurii07070/blob/main/986956_telegram_icon.png" alt="presnov" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/presnov" target="blank"><img src="linkedIn-alt.svg" alt="presnov" height="30" width="40" /></a>
+<a href="https://t.me/Iurii07070" target="blank"><img src="telegram_icon.png" alt="presnov" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Portfolio:</h3>
@@ -26,9 +25,10 @@
 - 🐞🔍	Bug list [RU](https://docs.google.com/spreadsheets/d/1OsbrybvPmf29uwqYLLffzObJNHUSOYHiTK7p9DG2O-M/edit?usp=sharing)
 - [Postman collection](https://github.com/Iurii07070/Iurii07070/blob/main/Postman%20integration/postman-collection-sample.json)
 - [Autotests](https://github.com/Iurii07070/fh-webapp-test-iurii)
+- [GitHub experience](https://github.com/Iurii07070/Sprint_6/pull/5)
 - Web elements basic checks. [Cheat list EN](https://github.com/Iurii07070/Iurii07070/blob/main/Cheat%20list%20web%20elements.pdf)
 - Test cases sample [EN](https://drive.google.com/file/d/1_GQs7SHqVT5KrMiTDZv7yLPvVg5a0o7o/view?usp=sharing)
-  &nbsp;
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 <div style="float:left;"><p id="float-left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iurii07070&show_icons=true&locale=en&layout=compact" alt="iurii07070" /></p></div>
