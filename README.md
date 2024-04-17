@@ -35,9 +35,8 @@
 ---
 ### Languages and Tools:
 
-<div align="left">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurii07070&show_icons=true&locale=en&layout=compact" alt="iurii07070" /></p>
-
+<div>
+  <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iurii07070&show_icons=true&locale=en&layout=compact" alt="iurii07070" /></p>
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
