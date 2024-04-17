@@ -1,26 +1,24 @@
-![MasterHead](https://github.com/Iurii07070/Iurii07070/blob/main/banner-gif.gif)
-# Hi 👋, I'm IURII
-
-### QA Engineer & Release Manager
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    - 🌱 Currently mastering my skills in **Java**<br>
-    - 🏡 Based in **Antalya, Turkey (GMT+03:00)**<br>
-    - 📄 Explore my professional journey [here](https://www.linkedin.com/in/presnov/).
-  </div>
-  <div style="margin-left: auto;">
-    <img align="right" alt="Coding" width="400" src="main-image.gif">
-  </div>
+![MasterHead](./main-banner.gif)
+<div style="text-align: center;">
+  <h1>Hi 👋, I'm IURII</h1>
 </div>
 
 
----
-### Connect with me:
-<div><p>
-<a href="https://linkedin.com/in/presnov" target="blank"><img src="linkedIn-alt.svg" alt="presnov" height="30" width="40" /></a>
-<a href="https://t.me/Iurii07070" target="blank"><img src="telegram_icon.png" alt="presnov" height="30" width="30" /></a>
-</p>
+<div style="display: inline-block;">
+
+  <div style="float: right; max-width:50%;">
+    <img src="main-image.gif" alt="Coding" style="max-height:500px; max-width:100%;">
+  </div>
+  <div style="max-width:50%;">
+
+### QA Engineer & Release manager
+
+- 🌱 Currently mastering my skills in **Java**<br>
+- 🏡 Based in **Antalya, Turkey (GMT+03:00)**<br>
+- 📄 Explore my professional journey <a href="https://www.linkedin.com/in/presnov/">here</a>.
+- 🤙 Connect with me in <a href="https://t.me/Iurii07070" target="blank">telegram</a>
+
+  </div>
 </div>
 
 ---
