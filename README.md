@@ -1,8 +1,9 @@
 ![MasterHead](./main-banner.gif)
   <h1 style="align:center">Hi 👋, I'm IURII</h1>
 
-
-<img src="main-image.gif" alt="Coding" style="float: right; width: 40%;">
+<div>
+<img src="./main-image.gif" alt="Coding" style="float: right; width: 40%;">
+</div>
 
 ### QA Engineer & Release manager
 
