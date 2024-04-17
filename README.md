@@ -14,14 +14,14 @@
 ---
 ### Portfolio:
 
-- 🧠🗺️  A mind map for SQL created in [MIRO](https://miro.com/app/board/uXjVP_7BD8Y=/)
-- ✅❌	Check list [RU](https://docs.google.com/spreadsheets/d/1za4sIPUU33VC6ZHJq_3xC3GBZSt7LOlXag1YbnMsBpA/edit?usp=sharing)
-- 🐞🔍	Bug list [RU](https://docs.google.com/spreadsheets/d/1OsbrybvPmf29uwqYLLffzObJNHUSOYHiTK7p9DG2O-M/edit?usp=sharing)
+- A SQL mind map created in [MIRO](https://miro.com/app/board/uXjVP_7BD8Y=/)
+- Checklist [(Russian)](https://docs.google.com/spreadsheets/d/1za4sIPUU33VC6ZHJq_3xC3GBZSt7LOlXag1YbnMsBpA/edit?usp=sharing)
+- Bug list [(Russian)](https://docs.google.com/spreadsheets/d/1OsbrybvPmf29uwqYLLffzObJNHUSOYHiTK7p9DG2O-M/edit?usp=sharing)
 - [Postman collection](https://github.com/Iurii07070/Iurii07070/blob/main/Postman%20integration/postman-collection-sample.json)
-- [Autotests](https://github.com/Iurii07070/fh-webapp-test-iurii)
+- [Automated tests](https://github.com/Iurii07070/fh-webapp-test-iurii)
 - [GitHub experience](https://github.com/Iurii07070/Sprint_6/pull/5)
-- Web elements basic checks. [Cheat list EN](https://github.com/Iurii07070/Iurii07070/blob/main/Cheat%20list%20web%20elements.pdf)
-- Test cases sample [EN](https://drive.google.com/file/d/1_GQs7SHqVT5KrMiTDZv7yLPvVg5a0o7o/view?usp=sharing)
+- Basic web elements checks: [Cheat sheet (English)](https://github.com/Iurii07070/Iurii07070/blob/main/Cheat%20list%20web%20elements.pdf)
+- Sample test cases [(English)](https://drive.google.com/file/d/1_GQs7SHqVT5KrMiTDZv7yLPvVg5a0o7o/view?usp=sharing)
 
 ---
 ### Languages and Tools:
