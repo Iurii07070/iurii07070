@@ -1,13 +1,10 @@
 ![MasterHead](./main-banner.gif)
-<div style="text-align: center;">
-  <h1>Hi 👋, I'm IURII</h1>
-</div>
-
+  <h1 style="text-align:center">Hi 👋, I'm IURII</h1>
 
 <div style="display: inline-block;">
 
-  <div style="float: right; max-width:50%;">
-    <img src="main-image.gif" alt="Coding" style="max-height:500px; max-width:100%;">
+  <div>
+    <img src="main-image.gif" alt="Coding" style="display: inline-block;float: right; max-width:40%;">
   </div>
   <div style="max-width:50%;">
 
@@ -63,15 +60,13 @@
 
 ---
 ### GitHub stats:
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" />
-  </div>
-  <div style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=iurii07070&show_icons=true&locale=en" alt="iurii07070" />
-  </div>
-  <div style="width: 50%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070" />
-  </div>
+
+<div style="width:100%"><img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" />
+</div>
+<div style="max-width:50%;">
+<img src="https://github-readme-stats.vercel.app/api?username=iurii07070&show_icons=true&locale=en" alt="iurii07070" />
+</div>
+<div style="max-width:50%;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070" />
 </div>
 
