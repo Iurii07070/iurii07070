@@ -4,15 +4,16 @@
 ### QA Engineer & Release Manager
 
 <div style="display: flex; align-items: center;">
-  <div>
-    <img align="right" alt="Coding" width="400" src="main-image.gif">
-  </div>
   <div style="flex: 1;">
     - 🌱 Currently mastering my skills in **Java**<br>
     - 🏡 Based in **Antalya, Turkey (GMT+03:00)**<br>
     - 📄 Explore my professional journey [here](https://www.linkedin.com/in/presnov/).
   </div>
+  <div>
+    <img align="right" alt="Coding" width="400" src="main-image.gif">
+  </div>
 </div>
+
 
 ---
 ### Connect with me:
