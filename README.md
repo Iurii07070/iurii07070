@@ -6,8 +6,8 @@
 
 ### QA Engineer & Release manager
 
-- 🌱 Currently mastering my skills in **Java**<br>
-- 🏡 Based in **Antalya, Turkey (GMT+03:00)**<br>
+- 🌱 Currently mastering my skills in **TS+PlayWright**<br>
+- 🏡 Based in **Barcelona, Spain (GMT+01:00)**<br>
 - 📄 Explore my professional journey <a href="https://www.linkedin.com/in/presnov/">here</a>.
 - 🤙 Connect with me in <a href="https://t.me/Iurii07070" target="blank">telegram</a>
 
@@ -15,19 +15,15 @@
 ### Portfolio:
 
 - A SQL mind map created in [MIRO](https://miro.com/app/board/uXjVP_7BD8Y=/)
-- Checklist [(Russian)](https://docs.google.com/spreadsheets/d/1za4sIPUU33VC6ZHJq_3xC3GBZSt7LOlXag1YbnMsBpA/edit?usp=sharing)
-- Bug list [(Russian)](https://docs.google.com/spreadsheets/d/1OsbrybvPmf29uwqYLLffzObJNHUSOYHiTK7p9DG2O-M/edit?usp=sharing)
-- [Postman collection](https://github.com/Iurii07070/Iurii07070/blob/main/Postman%20integration/postman-collection-sample.json)
-- [Automated tests](https://github.com/Iurii07070/fh-webapp-test-iurii)
+- [(Checklist example)](https://docs.google.com/spreadsheets/d/1za4sIPUU33VC6ZHJq_3xC3GBZSt7LOlXag1YbnMsBpA/edit?usp=sharing)
+- [(Bug list example)](https://docs.google.com/spreadsheets/d/1OsbrybvPmf29uwqYLLffzObJNHUSOYHiTK7p9DG2O-M/edit?usp=sharing)
 - [GitHub experience](https://github.com/Iurii07070/Sprint_6/pull/5)
-- Basic web elements checks: [Cheat sheet (English)](https://github.com/Iurii07070/Iurii07070/blob/main/Cheat%20list%20web%20elements.pdf)
-- Sample test cases [(English)](https://drive.google.com/file/d/1_GQs7SHqVT5KrMiTDZv7yLPvVg5a0o7o/view?usp=sharing)
+- Basic web elements checks: [Cheat sheet (English)](https://github.com/Iurii07070/Iurii07070/blob/main/CheatListWebElements.pdf)
 
 ---
 ### Languages and Tools:
 
 <div>
-<p align="left" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurii07070&show_icons=true&locale=en&layout=compact" alt="iurii07070" /></p>
 <p align="left" >
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -54,8 +50,4 @@
 ### GitHub stats:
 
 <div><img src="https://komarev.com/ghpvc/?username=iurii07070&label=Profile%20views&color=0e75b6&style=flat" alt="iurii07070" />
-</div>
-<div>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=iurii07070&show_icons=true&locale=en" alt="iurii07070"  style="max-width:50%;"/>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iurii07070&" alt="iurii07070"  style="max-width:50%;" />
 </div>
